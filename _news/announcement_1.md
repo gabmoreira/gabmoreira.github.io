@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll at ICRA presenting VICAN!
+I'll be at ICRA presenting VICAN!
