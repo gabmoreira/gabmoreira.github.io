@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at <a href='#'>CMU-LTI</a> and ISR-IST
+subtitle: PhD student at <a href='https://lti.cs.cmu.edu'>CMU-LTI</a> and <a href='https://welcome.isr.tecnico.ulisboa.pt'>ISR-IST</a>
 
 profile:
   align: right
@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a 3rd year PhD student at LTI-CMU and ISR-IST, under the CMU Portugal program. My main interest lies at intersection between language and vision.
+I'm a 3rd year PhD student at LTI-CMU and ISR-IST, advised by Joao Paulo Costeira, Manuel Marques and Alexander Hauptmann. My main research interest lies at intersection between language and vision.
