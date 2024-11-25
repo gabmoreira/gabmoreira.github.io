@@ -16,8 +16,12 @@
       year: 2021
       description:
     - title: MSc Aerospace Engineering
-      institution: Instituto Superior Tecnico
+      institution: Instituto Superior Tecnico, Lisbon, Portugal
       year: 2020
+      description:
+    - title: MSc Aerospace Engineering
+      institution: ISAE-Supaero, Toulouse, France
+      year: 2019
       description:
 
 - title: Experience
