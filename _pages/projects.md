@@ -1,6 +1,7 @@
 ---
 layout: page
 title: projects
+published: false
 permalink: /projects/
 description: Past and on-going projects.
 nav: true
