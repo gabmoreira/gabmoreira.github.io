@@ -1,1 +1,9 @@
-
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Gabriel Moreira
+    - name: Date of Birth
+      value: 13th May 1996
+    - name: Languages
+      value: English, French, Portuguese, Spanish
