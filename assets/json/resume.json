@@ -24,25 +24,22 @@
   },
   "work": [
     {
-      "name": "Meta Reality Labs, Princeton University",
+      "name": "Meta Reality Labs",
       "position": "Research Scientist Intern",
-      "url": "",
+      "url": "https://about.meta.com/realitylabs/",
       "startDate": "2024-06-03",
       "endDate": "2024-11-15",
       "summary": "Conducted research on 3D generation",
       "highlights": []
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Carnegie Mellon University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2023-12-20",
+      "summary": "Teaching assistant for Multimodal Machine Learning",
+      "highlights": []
     }
   ],
   "education": [
@@ -50,12 +47,21 @@
       "institution": "Carnegie Mellon Univeristy",
       "location": "Pittsburgh, PA, USA",
       "url": "https://www.cmu.edu/",
-      "area": "Software Development",
+      "area": "Machine Learning",
       "studyType": "PhD",
       "startDate": "2021-01-01",
       "endDate": "2021-01-01",
       "score": "10",
-      "courses": ["ConLanging", "Introduction to Deep Learning", "Multimodal Machine Learning", "Probabilistic Graphical Models"]
+      "courses": ["ConLanging", "Introduction to Deep Learning", "Multimodal Machine Learning", "Probabilistic Graphical Models", "Non-linear Optimization", "Network Science"]
+    },
+    {
+      "institution": "Instituto Superior Tecnico",
+      "location": "Lisbon, Portugal",
+      "url": "http://tecnico.ulisboa.pt",
+      "area": "Aerospace Engineering",
+      "studyType": "MSc",
+      "startDate": "2017-09-01",
+      "endDate": "2020-09-01",
     }
   ],
   "publications": [
@@ -116,20 +122,6 @@
       "language": "Spanish",
       "fluency": "Advanced",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
     }
   ],
   "projects": [
