@@ -19,11 +19,13 @@
     - title: MSc
       institution: ISAE-Supaero, Toulouse, France
       year: 2017 - 2019
-      description: Aerospace Engineering
-        - title: MSc
+      description: 
+        - Aerospace Engineering
+    - title: MSc
       institution: Instituto Superior Tecnico, Lisbon, Portugal
       year: 2017 - 2019
-      description: Aerospace Engineering
+      description: 
+        - Aerospace Engineering
 
 - title: Experience
   type: time_table
@@ -34,21 +36,17 @@
       description:
         - Research on self-supervised 3D shape generation.
     - title: Teaching Assistant
-      institution: Carnegie Mellon University, US
+      institution: Carnegie Mellon University, Pittsburgh, US
       year: 2023
-      description: TA for 11-777 Multimodal Machine Learning at LTI.
-
+      description:
+        - TA for 11-777 Multimodal Machine Learning at LTI.
     - title: Graduate Researcher
       institution: Institute for Systems and Robotics, Lisbon, Portugal
       year: 2020 - 2021
-      description: Conducted research on pose graph optimization algorithms.
-
+      description:
+        - Conducted research on pose graph optimization algorithms.
     - title: Research Intern
       institution: Airbus Defence and Space
       year: 2019
-      description: Final year research internship on computer vision algorithms with raw images for vision-based navigation.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Drawing, Guitar and MTB.
+      description:
+        - Final year research internship on computer vision algorithms with raw images for vision-based navigation.
