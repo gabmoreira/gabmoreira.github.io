@@ -26,6 +26,7 @@
     {
       "name": "Meta Reality Labs",
       "position": "Research Scientist Intern",
+      "location": "Zurich, Switzerland",
       "url": "https://about.meta.com/realitylabs/",
       "startDate": "2024-06-03",
       "endDate": "2024-11-15",
@@ -35,6 +36,7 @@
     {
       "name": "Carnegie Mellon University",
       "position": "Teaching Assistant",
+      "location": "Pittsburgh, PA, USA",
       "url": "",
       "startDate": "2023-09-01",
       "endDate": "2023-12-20",
@@ -44,6 +46,7 @@
     {
       "name": "Airbus Defence and Space",
       "position": "Research Intern",
+      "location": "Toulouse, France",
       "url": "",
       "startDate": "2019-04-01",
       "endDate": "2023-09-30",
@@ -54,7 +57,7 @@
   "education": [
     {
       "institution": "Carnegie Mellon Univeristy",
-      "location": "Pittsburgh, PA, USA",
+      "location": "Pittsburgh, USA",
       "url": "https://www.cmu.edu/",
       "area": "Machine Learning",
       "studyType": "PhD",
