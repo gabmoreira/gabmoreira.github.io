@@ -12,7 +12,7 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Carnegie Mellon University
+      institution: Carnegie Mellon University, Pittsburgh, PA, USA
       year: 2021
       description:
         - Description 1.
@@ -42,8 +42,8 @@
             - Sub-description 1.
             - Sub-description 2.
     - title: Teaching Assistant
-      institution: Carnegie Mellon University, Pittsburgh, PA, US
-      year: 2023
+      institution: Carnegie Mellon University, Pittsburgh, PA, USA
+      year: 2023 - 2023
       description:
         - Description 1.
         - Description 2.
