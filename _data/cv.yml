@@ -15,18 +15,10 @@
       institution: Carnegie Mellon University, Pittsburgh, PA, USA
       year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: MSc Aerospace Engineering
       institution: Instituto Superior Tecnico
       year: 2020
       description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
@@ -35,24 +27,18 @@
       institution: Meta Reality Labs, Zurich, Switzerland
       year: 2024 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Research on 3D generation.
     - title: Teaching Assistant
       institution: Carnegie Mellon University, Pittsburgh, PA, USA
       year: 2023 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
+        - Teaching assistant for the Multimodal Machine Learning (Fall 2023).
     - title: Graduate Researcher
       institution: Institute for Systems and Robotics, Lisbon, Portugal.
       year: 2020 - 2021
-
+      description:
+        - Conducted research on pose graph optimization algorithms
     - title: Research Intern
       institution: Airbus Defence and Space
       year: 2019 - 2019
-      description:
+      description: Final MSc research project on vision-based navigation with raw images.
